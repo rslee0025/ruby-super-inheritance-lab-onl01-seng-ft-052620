@@ -7,7 +7,8 @@ class ChattyStudent
   
   def raise_hand
     phrase = "Pick me!"
-    phrase.each { |phrase| puts phrase.t
+    10.times do |phrase|
+      puts
   end 
   
   
