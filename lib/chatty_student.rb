@@ -6,8 +6,8 @@ class ChattyStudent
   end 
   
   def raise_hand
-    phrase = "Pick me!"
-    10.times do |phrase|
+   
+   puts 10.times do |phrase|
       puts
   end 
   
