@@ -7,7 +7,7 @@ class ChattyStudent
   
   def raise_hand
     phrase = "Pick me!"
-    phrase.each d
+    phrase.each { |phrase| 
   end 
   
   
