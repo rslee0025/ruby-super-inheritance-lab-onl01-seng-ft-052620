@@ -6,7 +6,7 @@ class ChattyStudent
   end 
   
   def raise_hand
-    10.times do "Pick me!"
+    loop 10.times do "Pick me!"
     break
   end
 end
