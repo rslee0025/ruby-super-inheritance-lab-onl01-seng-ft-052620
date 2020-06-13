@@ -6,7 +6,8 @@ class ChattyStudent
   end 
   
   def raise_hand
-    10.times do "Pick me!" 
+    phrase = "Pick me!"
+    phrase.each do 
   end 
   
   
