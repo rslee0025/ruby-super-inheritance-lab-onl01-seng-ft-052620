@@ -7,7 +7,7 @@ class ChattyStudent
   
   def raise_hand
    phrase = "Pick me!"
-   return 10.times {|phrase|}
+   return 10.times {|phrase| " "}
   end 
   
   
