@@ -7,7 +7,7 @@ class ChattyStudent
   
   def raise_hand
    
-   puts 10.times do |phrase|
+   puts 10.times { |phrase|
     
   end 
   
